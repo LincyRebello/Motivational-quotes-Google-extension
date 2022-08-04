@@ -1,0 +1,17 @@
+{
+    "name": "You are Enough",
+    "version":"1.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_icon": "logo.png",
+        "default_popup": "popup.html",
+        "default_title": "Title here"
+      },
+    "icons":{
+        "128": "logo.png"
+    },
+    "permissions":["activeTab"],
+    "content_security_policy": {}
+
+
+}
